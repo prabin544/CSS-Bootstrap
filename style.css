@@ -1,0 +1,22 @@
+.orange-text {
+    color: orange !important;
+}
+.footer {
+
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+div {
+    border: 1px;
+}
+body{
+    background-color: skyblue;
+}
+.jumbotron {
+    margin-top: 20px;
+    background-size: cover;
+    background-image: url('Assets/images/SMU.jpg');
+    padding-bottom: 15em;
+    padding-top:15em
+}
